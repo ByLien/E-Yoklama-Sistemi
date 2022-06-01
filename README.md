@@ -1,2 +1,2 @@
-#E-Yoklama Sistemi 
-##Bu proje, Trakya Üniversitesi
+# E-Yoklama Sistemi 
+## Bu proje, Trakya Üniversitesi
