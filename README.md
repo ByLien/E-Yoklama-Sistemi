@@ -4,3 +4,6 @@ Bu proje, Trakya Üniversitesi Web Tabanlı Programlama dersinin final ödevi ol
 ### Hazırlayan Öğrenci
 Baran Berke Tekdoğan
 1191602064
+
+### Detaylı Bilgi
+Proje hakkındaki sunum dosyasını PDF formatında dosyalar içerisinde bulabilirsiniz.
