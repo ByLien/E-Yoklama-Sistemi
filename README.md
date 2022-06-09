@@ -9,5 +9,5 @@ Baran Berke Tekdoğan
 ### Detaylı Bilgi
 Proje hakkındaki sunum dosyasını PDF formatında dosyalar içerisinde bulabilirsiniz.
 <br>YA DA 
-Sunum dosyasını indirmek için <a href="https://github.com/ByLien/E-Yoklama-Sistemi/raw/main/E-Yoklama%20Sunum.pdf">Tıklayın.</a>
+<br>Sunum dosyasını indirmek için <a href="https://github.com/ByLien/E-Yoklama-Sistemi/raw/main/E-Yoklama%20Sunum.pdf">Tıklayın.</a>
 
