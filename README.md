@@ -7,3 +7,5 @@ Baran Berke Tekdoğan
 
 ### Detaylı Bilgi
 Proje hakkındaki sunum dosyasını PDF formatında dosyalar içerisinde bulabilirsiniz.
+<a href="[LİNK](https://github.com/ByLien/E-Yoklama-Sistemi/blob/main/E-Yoklama%20Sunum.pdf)">Tıkla</a>
+
